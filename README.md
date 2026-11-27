@@ -1,6 +1,6 @@
 # 8HP Eurorack Proto Panel
 
-<img width="576" height="1135" alt="image" src="https://github.com/user-attachments/assets/1045f373-302c-4e01-bd66-fcba3a4b1a2a" />
+<img width="477" height="1108" alt="image" src="https://github.com/user-attachments/assets/f9c21425-a5b6-41d5-a017-22d7d7b2136f" />
 
 An open-hardware, all-in-one 8HP Eurorack front-panel PCB designed for
 solderless breadboard synth prototyping. Front-panel controls (pots, jacks,
