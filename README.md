@@ -46,6 +46,8 @@ back of the board.
 
 ### `J5` (1x9 - Potentiometers)
 
+[Interactive BOM](https://wchrapcynski.github.io/universal-eurorack-proto-panel/bom/ibom.html)
+
 | Pin | Net  | Description          |
 |-----|------|----------------------|
 | 1   | P1_1 | RV1 pin 1            |
