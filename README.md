@@ -104,8 +104,6 @@ back of the board.
 - Dimensions: 40.3 x 128.5 mm (8HP)
 - Can be ordered directly from OSH Park by uploading the `.kicad_pcb` file, or
   fabricated anywhere using standard Gerber + drill exports
-  
----
 
 ## 3D-Printed BB400 Breadboard Sled
 
@@ -129,8 +127,6 @@ of the PCB at `H5` and `H6` (`98.0 mm` apart) and holds a BusBoard BB400
   supports required**
 - **Hardware:** 2x M3 screws (8 mm or 10 mm) and 2x standard M3 hex nuts
   (press-fit into the rear 2.6 mm hex pockets)
-
----
 
 ## License
 
