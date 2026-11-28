@@ -105,6 +105,29 @@ back of the board.
 - Can be ordered directly from OSH Park by uploading the `.kicad_pcb` file, or
   fabricated anywhere using standard Gerber + drill exports
 
+## 3D-Printed BB400 Breadboard Sled
+
+The repository includes a perpendicular breadboard sled that bolts to the back
+of the PCB at `H5` and `H6` (`98.0 mm` apart) and holds a BusBoard BB400
+(`84 x 54 x 9 mm`) cleanly inside the 8HP width and 3U rail clearance.
+
+### Files
+
+- `baseplate.FCStd` - FreeCAD 1.1 source file
+- `baseplate.stl` - Ready-to-slice 3D-printable STL
+
+### Dimensions and Printing
+
+- **Size:** 65 mm deep x 106 mm tall x 3 mm thick wall (24 mm total width with
+  mounting tabs)
+- **Clearances:** 5 mm front recess between the two tabs clears `R1` and rear
+  solder joints; 65 mm depth leaves room for `J5` jumper wires while fitting
+  inside shallow cases (tested against a 70 mm deep Apache 2800 Eurorack case)
+- **Orientation:** Print flat on the build plate (tabs pointing up), **no
+  supports required**
+- **Hardware:** 2x M3 screws (8 mm or 10 mm) and 2x standard M3 hex nuts
+  (press-fit into the rear 2.6 mm hex pockets)
+
 ## License
 
 Copyright (c) 2026 William Chrapcynski
